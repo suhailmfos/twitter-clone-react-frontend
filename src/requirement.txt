@@ -1,0 +1,7 @@
+npm install react-router
+npm install bootstrap
+npm i bootstrap
+npm i react-axios
+npm i is-installed-globally
+npm i react-validation
+npm i validator
